@@ -1,6 +1,3 @@
-Here's a template for your SVG project README:
-
----
 
 # SVG Project
 
