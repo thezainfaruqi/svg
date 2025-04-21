@@ -86,6 +86,4 @@ Contributions are welcome! If you have suggestions or bug fixes, feel free to fo
 ## License
 This project is open-source and available under the MIT License.
 
----
 
-Feel free to adjust the details as needed!
